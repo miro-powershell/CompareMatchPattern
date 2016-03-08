@@ -19,9 +19,6 @@ A. If you would like to import module manually in PowerShell everytime you would
 
 
 
-
-
-
 B. If you would like to benefit from 'PowerShell Module Auto-Loading' feature of PowerShell 3.0 and above
 
 
